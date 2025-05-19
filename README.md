@@ -118,7 +118,9 @@ Large (L) pizzas were the most frequently ordered size, accounting for approxima
 
  ## 6.Summary
   * This analysis shows that Classic Deluxe and BBQ Chicken pizzas are leaders in both volume and revenue. 
+
   * Lunch hours drive the highest sales, and Large size dominates.
+
   *  A strong focus on the Classic category and afternoon deals can boost performance further.
 
 
