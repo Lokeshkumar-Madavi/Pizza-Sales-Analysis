@@ -121,7 +121,13 @@ Large (L) pizzas were the most frequently ordered size, accounting for approxima
 
   * Lunch hours drive the highest sales, and Large size dominates.
 
-  *  A strong focus on the Classic category and afternoon deals can boost performance further.
+ *  A strong focus on the Classic category and afternoon deals can boost performance further.
+
+
+![1 P](https://github.com/user-attachments/assets/b35f10cc-3272-478d-87d5-10ebe70d04bb)
+![2 P](https://github.com/user-attachments/assets/5ee7c423-1b93-4175-b18f-d7e72ab401fa)
+
+
 
 
  
